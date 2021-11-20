@@ -1,3 +1,3 @@
-# html recipe
+# html and css recipe
 
-This a recipe page with just pure html.
+This a recipe page with html and css.
